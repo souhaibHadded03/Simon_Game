@@ -1,8 +1,11 @@
 # Simon_Game
+
 Description
 The Simon game is a classic electronic game that challenges players to memorize and repeat sequences of colored buttons. This project is a web-based implementation of the Simon game using HTML, CSS, and JavaScript.
 
 #Features
+
+
 Play the classic Simon game directly in your web browser.
 Test and improve your memory skills by repeating sequences of button presses.
 Track your score and see how long you can keep up with the increasingly difficult sequences.
@@ -10,6 +13,7 @@ Demo
 You can play the Simon game online here.
 
 #Installation
+
 Clone the repository:
 
 bash
@@ -18,6 +22,7 @@ git clone <link of repo>
 Open the index.html file in your web browser.
 
 #Usage
+
 Start the game by clicking on the "Start" button.
 Watch the sequence of colored buttons as they light up and play sounds.
 Repeat the sequence by clicking on the buttons in the same order.
